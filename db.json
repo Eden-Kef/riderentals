@@ -1,6 +1,6 @@
 {
  "services": [
-  {"title": "Economy","thumbnailUrl":"http://localhost:3000/vitz.jpg",
+  {"title": "Economy","thumbnailUrl":"http://localhost:9000/vitz.jpg",
     "price": "Starting $60", "name": "Toyota VITZ",
     "description":"4 Person Seat, Automatic, Perfect for in city & Pick up at airport."},
   {"title": "Standard","thumbnailUrl":"http://localhost:9000/corolla.png", 
