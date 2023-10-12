@@ -1,0 +1,22 @@
+{
+ "services": [
+  {"title": "Economy","thumbnailUrl":"http://localhost:9000/vitz.jpg",
+    "price": "Starting $60", "name": "Toyota VITZ",
+    "description":"4 Person Seat, Automatic, Perfect for in city & Pick up at airport."},
+  {"title": "Standard","thumbnailUrl":"http://localhost:9000/corolla.png", 
+    "price": "Starting $60","name": "Toyota Corolla, VM",
+    "description":"4 Person Seat, Automatic, Perfect for in city & Pick up at airport."},
+  {"title": "Medsize SUV","thumbnailUrl":"http://localhost:9000/rav4.jpg",
+    "price": "Starting $80", "name": "Toyota Rav4",
+    "description": "4 Person Seat, Automatic, Perfect for in city & Pick up at airport."},
+  {"title": "Fullsize SUV","thumbnailUrl":"http://localhost:9000/Highlander.jpg",
+     "price":"Starting $80","name": "Toyota HighLander",
+     "description":"7 Person Seat, Automatic, Space for Bags & Pick up at airport."},
+  {"title": "Minivan","thumbnailUrl":"http://localhost:9000/hiace.jpg", 
+    "price": "Starting $100", "name": "Toyota HiAce",
+    "description":"8 Person Seat, Automatic, Space for Bags & Pick up at airport."},
+  {"title": "Pickup","thumbnailUrl":"http://localhost:9000/pickup.png",
+    "price": "Starting $100", "name": "Toyota Pickup",
+    "description":"10 Person Seat, Automatic, Space for Bags & Pick up at airport."}
+ ]
+}
